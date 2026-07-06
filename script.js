@@ -5,7 +5,7 @@
      CONFIG
      ================================================== */
   const CONFIG = {
-    totalFrames: 200,
+    totalFrames: 244,
     framePrefix: 'frames/videoplayback_',
     frameExt: '.jpg',
     padDigits: 3,
